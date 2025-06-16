@@ -24,7 +24,7 @@ const config: Config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'Omegaark', // Usually your GitHub org/user name.
   projectName: 'hvdocs', // Usually your repo name.
-  deploymentBranch: 'main', // The branch that GitHub pages will deploy from.
+  deploymentBranch: 'gh-pages', // The branch that GitHub pages will deploy from.
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
